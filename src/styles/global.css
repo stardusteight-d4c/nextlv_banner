@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+  @apply bg-black
+}
+
 body {
   @apply font-sans
 }
