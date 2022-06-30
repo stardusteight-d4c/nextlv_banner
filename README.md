@@ -2,6 +2,6 @@
 
 ![cover](cover.png)
 
-> Uma página de contato simples para plataforma NextLv, um projeto que visa clonar os
-> aspectos de uma interface de vídeos tendo como base a Netflix. Há um banner de apresentação
-> e um fórmulário que enviará os dados para um endpoint através da Getform.io
+> A simple contact page for the NextLv platform, a project that aims to clone the
+> aspects of a video interface based on Netflix. There is a presentation banner
+> and a form that will send the data to an endpoint via Getform.io
